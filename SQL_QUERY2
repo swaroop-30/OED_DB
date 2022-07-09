@@ -48,3 +48,6 @@ UPDATE Product
 
 DELETE FROM Customer
   WHERE CustNo = 'C9999999';
+
+DELETE FROM Employee
+  WHERE EmpNo = 'E9999999';
